@@ -18,4 +18,14 @@ Big O of Linked List:
 3. lookup  --> O(n)
 4. insert  --> O(n)
 5. delete  --> O(n)
+
+Pros:
+1. Fast Insertion
+2. Fast Deletion
+3. Ordered
+4. Flexible Size
+
+Cons:
+1. Slow lookup
+2. More Memory
 """
